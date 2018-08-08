@@ -22,4 +22,4 @@ end
 
 shoe = Shoe.new("Ugg")
 
-shoe.Brands
+shoe.brand
