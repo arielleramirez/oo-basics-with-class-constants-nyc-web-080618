@@ -19,3 +19,7 @@ class Shoe
   end
 
 end
+
+shoe = Shoe.new("Ugg")
+
+shoe.Brands
